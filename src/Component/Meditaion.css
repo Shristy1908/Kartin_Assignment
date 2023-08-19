@@ -1,0 +1,6 @@
+.meditation-container{
+    display:inline-flex;
+    flex-wrap: wrap;
+    margin: 2rem 5rem;
+    gap: 2rem;
+}

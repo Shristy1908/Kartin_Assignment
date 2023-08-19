@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "type":"Grocery Shop",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdoa6cGL-iwHWzs0JfTLIFTIhPiK9EwRH7Q&usqp=CAU",
+        "rating":"4.1",
+        "timing":"7Am- 10Pm",
+        "contact":"8765432190",
+         "address":"Near You"
+    },
+    {
+        "id":2,
+        "type":"Medicine Shop",
+        "img":"https://content.jdmagicbox.com/comp/patna/g4/0612px612.x612.200103145318.b5g4/catalogue/a2z-pharma-patna-s1wtjgr2ds.jpg?clr=",
+        "rating":"4.1",
+        "timing":"24 hours",
+         "contact":"8765432190",
+         "address":"Near You"
+    },
+    {
+         
+        "id":3,
+        "type":"Milk Dairy",
+        "img":"https://content.jdmagicbox.com/comp/delhi/s8/011pxx11.xx11.160905125123.p9s8/catalogue/new-shahi-dairy-rohini-sector-16-delhi-dairy-product-retailers-gcpc3b.jpg?clr=",
+        "rating":"4.1",
+        "timing":"24 hours",
+         "contact":"8765432190",
+         "address":"Near You"
+    },
+    
+  
+    {
+         "id":5,
+        "type":"Fruit Shop",
+        "img":"https://content.jdmagicbox.com/comp/remote/k7/9999p4565.4565.190803190358.f8k7/catalogue/new-karaikudi-fruit-shop-karaikudi-karaikudi-fruit-vendors-kdt6p3gx3s.jpg?clr=",
+        "rating":"4.1",
+        "timing":"7Am- 6Pm",
+        "contact":"9065432190",
+          "address":"Near You"
+    },
+     {
+         "id":6,
+        "type":"Juice Shop",
+        "img":"https://en-media.thebetterindia.com/uploads/2019/05/juice-hygiene.jpg",
+        "rating":"4.6",
+        "timing":"6Am- 5Pm",
+        "contact":"9665432190",
+        "address":"Near You"
+    },
+       {
+        "id":4,
+        "type":"Carpenter Shop",
+        "img":"https://ak.picdn.net/offset/photos/5b522ab217fb156e48085f4b/medium/offset_720741.jpg",
+        "rating":"4.4",
+        "timing":"7Am- 6Pm",
+        "contact":"8765432190",
+        "address":"Near You"
+    }
+]

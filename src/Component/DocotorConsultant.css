@@ -1,0 +1,44 @@
+.Consultant-container{
+    background-color: rgb(230, 229, 229);
+    text-align: center;
+}
+
+.DoctorsList{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.doctortype{
+    color: rgb(159, 38, 38);
+}
+
+.cards{
+    width: 15rem;
+    height: 15rem;
+    background-color: white;
+    margin: 1rem;
+    padding: 2rem 3rem;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px gray;
+    place-items: center;
+}
+.DoctorsList .image{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+}
+span{
+    color: rgb(63, 63, 63);
+    font-size: 15px;
+}
+.star{
+    color: rgb(214, 214, 60);
+}
+.btn{
+    width: 10rem;
+    margin: 0 2rem;
+    font-size: 16px;
+    background-color: rgb(11, 11, 55);
+    cursor: pointer;
+}

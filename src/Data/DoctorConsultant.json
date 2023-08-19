@@ -1,0 +1,76 @@
+
+[
+    {
+        "id":1,
+        "img":"https://www.kailashhealthcare.com/Content/images/Doctor/YKC59NMADr.%20S.K.%20AgarwalKailash%20Hospital,%20Noida.jpg.jpg",
+        "docotortype":"General Practitioner",
+        "docotorname":"Dr. Ajay Sharma",
+        "DocotorNo":"9756457610",
+        "rating":"4.1"
+    },
+    {
+        "id":2,
+        "img":"https://www.eternalhospital.com/uploadedfiles/gallery/1686978171_Doctor-Images_Resize-262x329-Dr.-Abhishek-Goyal.jpg",
+        "docotortype":"Neurologist",
+        "docotorname":"Dr. Ravi Ranjan",
+        "DocotorNo":"8656437611",
+        "rating":"3.1"
+    },
+    {
+         "id":3,
+         "img":"https://sparshwomenhospital.com/media/drmonika.png",
+        "docotortype":"Surgeon",
+
+        "docotorname":"Dr. Shreya Roy",
+        "DocotorNo":"7857432611",
+        "rating":"4.2"
+    },
+    {
+        "id":4,
+        "img":"https://www.kauveryhospital.com/doctorimage/recent/Dr-Bhuvaneshwari-rajendran---Neurophysiology-_-neurology2019-02-18%2011:52:12am.jpg",
+        "docotortype":"Dermatologist",
+        "docotorname":"Dr. Ranjna Saran",
+        "DocotorNo":"6207432611",
+        "rating":"4.0"
+    },
+     {
+        "id":5,
+        "img":"https://www.felixhospital.com/sites/default/files/2022-11/dr-priyadarshi-jitendra-kumar.jpg",
+        "docotortype":"Dentist",
+        "docotorname":"Dr. Rahul verma",
+        "DocotorNo":"6204532611",
+        "rating":"4.1"
+    },
+     {
+        "id":6,
+        "img":"https://www.felixhospital.com/sites/default/files/2022-11/dr-dk-gupta.jpg",
+        "docotortype":"Pathologist",
+        "docotorname":"Dr. Manoj Mishra",
+        "DocotorNo":"6203465217",
+        "rating":"4.5"
+    },
+     {
+        "id":7,
+        "img":"https://www.kauveryhospital.com/doctorimage/recent/Dr.Muthulakshmi2022-02-09-01:18:39pm.jpg",
+        "docotortype":"Neurology",
+        "docotorname":"Dr. Ratna Rani",
+        "DocotorNo":"6786532611",
+        "rating":"4.3"
+    },
+     {
+        "id":8,
+        "img":"https://www.kauveryhospital.com/doctorimage/recent/Dr.-N.-Suchitra2023-01-17-12:08:24pm.jpg",
+        "docotortype":"Pediatrics",
+        "docotorname":"Dr. Alka Yogini",
+        "DocotorNo":"6202432611",
+        "rating":"4.1"
+    },
+     {
+        "id":9,
+        "img":"https://static.vecteezy.com/system/resources/thumbnails/000/859/306/small/smiling-doctor-portrait.jpg",
+        "docotortype":"Ophthalmology",
+        "docotorname":"Dr. murari Shaw",
+        "DocotorNo":"6206432611",
+        "rating":"4.1"
+    }
+]

@@ -1,0 +1,28 @@
+.Shop-container {
+    background-color: rgb(238, 237, 237);
+    text-align: center;
+
+}
+.ShopList {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.type {
+    color: rgb(159, 38, 38);
+}
+.cards {
+    width: 15rem;
+    height: 25rem;
+    background-color: white;
+    margin: 1rem;
+    padding: 2rem 3rem;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px gray;
+    place-items: center;
+}
+.ShopList img {
+    width: 15rem;
+    height: 6rem;
+    border-radius: 5%;
+}
